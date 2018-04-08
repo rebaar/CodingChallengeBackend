@@ -1,0 +1,6 @@
+C:\Users\Andrew\Desktop\NativeCodingChallenge-master\AlsoEnergyCodingChallenge\AlsoEnergyCodingChallenge\bin\Debug\AlsoEnergyCodingChallenge.exe.config
+C:\Users\Andrew\Desktop\NativeCodingChallenge-master\AlsoEnergyCodingChallenge\AlsoEnergyCodingChallenge\bin\Debug\AlsoEnergyCodingChallenge.exe
+C:\Users\Andrew\Desktop\NativeCodingChallenge-master\AlsoEnergyCodingChallenge\AlsoEnergyCodingChallenge\bin\Debug\AlsoEnergyCodingChallenge.pdb
+C:\Users\Andrew\Desktop\NativeCodingChallenge-master\AlsoEnergyCodingChallenge\AlsoEnergyCodingChallenge\obj\Debug\AlsoEnergyCodingChallenge.exe
+C:\Users\Andrew\Desktop\NativeCodingChallenge-master\AlsoEnergyCodingChallenge\AlsoEnergyCodingChallenge\obj\Debug\AlsoEnergyCodingChallenge.pdb
+C:\Users\Andrew\Desktop\NativeCodingChallenge-master\AlsoEnergyCodingChallenge\AlsoEnergyCodingChallenge\obj\Debug\AlsoEnergyCodingChallenge.csprojResolveAssemblyReference.cache
